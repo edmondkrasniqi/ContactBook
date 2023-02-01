@@ -1,0 +1,88 @@
+{
+  "contactBook": [
+    {
+      "name": "asdaea",
+      "lastName": "asd",
+      "address": "asd",
+      "phone": [
+        {
+          "id": "0.0009543079283738098",
+          "value": "1111111"
+        },
+        {
+          "id": "0.7945428907254668",
+          "value": "111"
+        }
+      ],
+      "email": [
+        {
+          "id": "0.3458687843113679",
+          "value": "asdasd@d.com"
+        }
+      ],
+      "id": "0.030439302089938947",
+      "country": "aaaaaaaaaaaaa",
+      "city": "cccccccc"
+    },
+    {
+      "name": "asd",
+      "lastName": "d",
+      "address": "dad",
+      "phone": [
+        {
+          "id": "0.05310775257754918",
+          "value": "231"
+        }
+      ],
+      "email": [
+        {
+          "id": "0.16986463675791863",
+          "value": "a@b.com"
+        }
+      ],
+      "id": "0.7105677812425157",
+      "country": "dasd",
+      "city": "dsads"
+    },
+    {
+      "name": "sdad",
+      "lastName": "dsad",
+      "address": "dsadasd",
+      "phone": [
+        {
+          "id": "0.12248829928814864",
+          "value": "ddasd"
+        }
+      ],
+      "email": [
+        {
+          "id": "0.15636073782511795",
+          "value": "asd@sda.com"
+        }
+      ],
+      "id": "0.7258666225504538",
+      "country": "dasddas",
+      "city": "dasd"
+    },
+    {
+      "name": "edmond",
+      "lastName": "krasniqi",
+      "address": "asdas",
+      "phone": [
+        {
+          "id": "0.42478813273506155",
+          "value": "231"
+        }
+      ],
+      "email": [
+        {
+          "id": "0.09850725729402177",
+          "value": "a@b.com"
+        }
+      ],
+      "id": "0.7413078287196171",
+      "country": "zxcvgASDFGDSA",
+      "city": "asdas"
+    }
+  ]
+}
